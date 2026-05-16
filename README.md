@@ -10,3 +10,7 @@ Feel free to explore the repository, learn from the code, and use it as inspirat
 If you would like to reference, modify, or use parts of the code for public or commercial purposes, please make sure to provide appropriate credit or contact me beforehand when necessary.
 
 Thank you for visiting and respecting the work of independent developers.
+
+If there's anything to ask or let me know, please contact me through the email below
+
+joesep1010318@naver.com
